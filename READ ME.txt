@@ -1,0 +1,31 @@
+--INSTUCTIONS--
+
+1. Once the file is extracted simply click on the folder "Nebula Runner Final Product"
+
+2. Click on "Nebula Runner.exe" to start the game
+
+3. You'll be greeted by a config menu leave the resolution as 800 X 600 and you can pick if you want it windowed or full screen by ticking the box
+
+4. Once the game has loaded simply click on the play button and the game will start
+
+
+--CONTROLS--
+
+W - Up
+
+A - Left
+
+S - Down
+
+D - Right
+
+ESC - Restart
+
+Left Mouse Button - Fire
+
+
+--SCORING SYSTEM--
+
+Asteriods - 10 Points
+
+Enemy Ships - 20 Points
